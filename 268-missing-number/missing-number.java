@@ -5,5 +5,6 @@ class Solution {
             n = n ^ i ^ nums[i];
         }
         return n;
+    
     }
 }
